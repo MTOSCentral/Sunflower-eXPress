@@ -1,4 +1,4 @@
-# Meow Tech Open Source Central Series Sunflower Go Edition
+# Meow Tech Open Source Central Series Sunflower eXPress
 
 **Whats this for?** Managing your family/child's pocket money with ease with a secure system and history functions
 
@@ -24,30 +24,18 @@ Sunflower Go Version 0.1
 # Note
 Note:A Working Implementation of an REST API is included,a redisgn of the API is coming soon, and legacy will be dropped soon.
 
+# What/Why is it different from the normal version of Sunflower?
+Sunflower is based on Flask, a python we framework, and eXPress is based on the well... express.js framework, which brings performance improvements for at least 10-20%.
+
+## Why do I keep the Flask edition if that is the case?
+Sunflower eXPress is meant for Sunflower365, which is the subscription based Saas(Software as a service), which needs a more scalable framework, eXPress edition will receive update *LESS FREQUENTLY*. This is for users who are willing to try something NEW and LESS STABLE(not 365). Because I am more fimiliar with Flask, the Flask version will be maintained first, then the eXPress edition, so Less Updates, Less Features.
+
+## Comparing Both Of Them
+- While flask version is more stable and more features, it provides less performance, its kernel is better and has a better codebase overall.
+- The eXPress version however is more, well...eXPress, faster, but less features.
 
 The Patch Commit For ANY OS support added.
 * GUIDE IN THE WIKI.
-
-# Warnings And Disclaimers
-
-## !!Mint Kernel is a critical part of Sunflower Go Edition Now and it cannot be run without the kernel.!!
-
-## !!MintKernel Go Edition is licensed under MIT LICENSE!!
-
-## !!WARNING:MINTLOG GO EDITION IS SHARED SOURCE, BUT NOT OPEN SOURCE, THAT MEANS YOU CAN VIEW AND RUN IT, BUT YOU CANNOT MODIFY IT,THANKS FOR SUPPORTING US!!
-## copyright (c) 2020-2021 Meow Tech Open Source / Places Apps, all rights reserved.
-
-## !!MintKernel Go Edition is a seprate project that is now NOT LINKED with sunflower go and MintKernel!!
-
-## !!Sunflower is licensed under EPL 2!!
-
-## !!Sunflower is now just a frontend of MintKernel Go Edition, Not a self-runnable project!!
-
-## !!MintLog is a seprate project and can be excluded with the kernel!!
-
-## !!MintLog cannot be use with other program without Meow Tech Open Source / Places Apps Written Permission!!
-
-## !!MintLog Source Code MUST NOT be use in other projects!!
 
 
 Enjoy,
