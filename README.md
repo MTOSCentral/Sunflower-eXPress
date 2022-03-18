@@ -1,4 +1,4 @@
-# Meow Tech Open Source Central Series Sunflower eXPress
+# Meow Tech Open Source Central Series Sunflower eXPress (MTOS Sunflower XP)
 
 **Whats this for?** Managing your family/child's pocket money with ease with a secure system and history functions
 
