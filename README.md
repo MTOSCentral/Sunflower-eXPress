@@ -16,7 +16,7 @@
 [Click Here To Learn More About Upcoming Features](upcoming.md)
 
 # Supported Versions
-Sunflower Express Version 0.1
+Sunflower eXPpress Version 0.1
 
 # Update Pack Status
 Coming Soon
