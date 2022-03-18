@@ -2,7 +2,7 @@
 
 **Whats this for?** Managing your family/child's pocket money with ease with a secure system and history functions
 
-**How to install the server** Install the .exe/binary file.
+**How to install the server** Coming Soon
 
 # Features
 * **View Add/Remove History**: Easily view add/remove pocket money history
@@ -10,16 +10,16 @@
 * **Add/Remove Pocket Money**:Thats what it is
 * **Update System**:Fast updae file format.
 * **SQL-Based**:Easily modifiy data on your server(If that's your server)
-* **Powered By Go**:New!The system is now powered by Go.
+* **Powered By Express**:New!The system is now powered by Express.js!
 
 ## Upcoming Features:
 [Click Here To Learn More About Upcoming Features](upcoming.md)
 
 # Supported Versions
-Sunflower Go Version 0.1
+Sunflower Express Version 0.1
 
 # Update Pack Status
-[![Building Update Packages](https://github.com/MTOSCentral/Sunflower/actions/workflows/autobuild.yml/badge.svg?branch=main)](https://github.com/MTOSCentral/Sunflower/actions/workflows/autobuild.yml)
+Coming Soon
 
 # Note
 Note:A Working Implementation of an REST API is included,a redisgn of the API is coming soon, and legacy will be dropped soon.
