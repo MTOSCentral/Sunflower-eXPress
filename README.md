@@ -34,19 +34,17 @@ Sunflower eXPress is meant for Sunflower365, which is the subscription based Saa
 - While flask version is more stable and more features, it provides less performance, its kernel is better and has a better codebase overall.
 - The eXPress version however is more, well...eXPress, faster, but less features.
 
-The Patch Commit For ANY OS support added.
-* GUIDE IN THE WIKI.
-
 
 Enjoy,
 The Central Team.
 
 Rebranded As Sunflower, Central is now a series.
-As you see, a go edition.
+
+As you see, an eXPress edition.
 
 -----------------------------------------------------
 Tags
-fast reliable pongo2 fiber-golang go golang html css hyper text markup language hypertext-markup-language secure login logout gui web webapp webapi api fastapi free opensource shared source server selfhosted self-hosted sharedsource family family friendly friendly
+fast reliable nunjucks npm node node.js nodejs nunjucks.js js express eXPress express.js html css hyper text markup language hypertext-markup-language secure login logout gui web webapp webapi api fastapi free opensource shared source server selfhosted self-hosted sharedsource family family friendly friendly
 
 
 
